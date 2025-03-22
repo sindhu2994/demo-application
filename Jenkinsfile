@@ -23,7 +23,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying to server...'
-s            }
+            }
         }
     }
 
